@@ -1,0 +1,6 @@
+name: HideAndSeek
+version: '${project.version}'
+main: me.myster.HideAndSeek
+api-version: 1.19
+authors: [ Myster__ ]
+description: Hide And Seek Game
